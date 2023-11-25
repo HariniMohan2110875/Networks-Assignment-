@@ -12,7 +12,7 @@ Simulation of RIP Table by exchanging the updates with its neighbours alone usin
 
 Routing Information Protocol (RIP) is a dynamic routing protocol that uses hop count as a routing metric to find the best path between the source and the destination network. 
 - It is a distance-vector routing protocol that has an AD value of 120 and works on the Network layer of the OSI model. 
-- RIP uses port number 520. 
+
 - Hop Count: Hop count is the number of routers occurring in between the source and destination network. The path with the lowest hop count is considered as the best route to reach a network and therefore placed in the routing table. 
 
 ## Running the C program
