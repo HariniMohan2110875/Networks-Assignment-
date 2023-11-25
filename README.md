@@ -36,6 +36,7 @@ Updated routing table for each node.
 
 ### Sample input - output:
 
+```
 Enter the number of nodes : 3
 
 Enter the cost matrix for router 1:
@@ -44,7 +45,7 @@ Enter the cost matrix for router 1:
 7 1 0
 
 ...
-'
+
 Routing table for router 1:
 +-------------+------------+----------+
 | Destination | Next Hop   | Distance |
@@ -53,9 +54,9 @@ Routing table for router 1:
 | 2           | 2          | 2        |
 | 3           | 2          | 3        |
 +-------------+------------+----------+
-'
-...
 
+...
+```
 
 
 ### Contributors
